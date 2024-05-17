@@ -1,0 +1,155 @@
+{
+    "default_width": 700,
+    "default_height": 180,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1007,
+    "overlay_height": 268,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                6,
+                140
+            ],
+            "id": "Z",
+            "z_level": 0,
+            "mapping": [
+                1,
+                1,
+                128,
+                128
+            ],
+            "code": 22
+        },
+        {
+            "type": 1,
+            "pos": [
+                140,
+                140
+            ],
+            "id": "X",
+            "z_level": 0,
+            "mapping": [
+                132,
+                1,
+                128,
+                128
+            ],
+            "code": 23
+        },
+        {
+            "type": 1,
+            "pos": [
+                274,
+                140
+            ],
+            "id": "C",
+            "z_level": 0,
+            "mapping": [
+                263,
+                1,
+                128,
+                128
+            ],
+            "code": 24
+        },
+        {
+            "type": 1,
+            "pos": [
+                745,
+                6
+            ],
+            "id": "Up",
+            "z_level": 0,
+            "mapping": [
+                394,
+                1,
+                128,
+                128
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                745,
+                140
+            ],
+            "id": "Down",
+            "z_level": 0,
+            "mapping": [
+                525,
+                1,
+                128,
+                128
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                611,
+                140
+            ],
+            "id": "Left",
+            "z_level": 0,
+            "mapping": [
+                656,
+                1,
+                128,
+                128
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                879,
+                140
+            ],
+            "id": "Right",
+            "z_level": 0,
+            "mapping": [
+                787,
+                1,
+                128,
+                128
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                408,
+                140
+            ],
+            "id": "Demodash",
+            "z_level": 0,
+            "mapping": [
+                918,
+                1,
+                128,
+                128
+            ],
+            "code": 25
+        },
+        {
+            "type": 1,
+            "pos": [
+                6,
+                5
+            ],
+            "id": "Z0",
+            "z_level": 0,
+            "mapping": [
+                1,
+                1,
+                128,
+                128
+            ],
+            "code": 57
+        }
+    ]
+}
